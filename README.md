@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spoilt83
-- 👀 I’m interested in Python and Javascript
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Python, React and AWS
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
